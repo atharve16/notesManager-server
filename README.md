@@ -14,7 +14,9 @@ Supports creating, reading, updating, deleting (CRUD) notes and bookmarks with s
 - **Frontend:** [Notes Manager Frontend](../frontend)
 
 ## 📁 Project Structure
----
+
+```markdown
+
 backend/
 ├── controllers/
 ├── models/
@@ -24,6 +26,8 @@ backend/
 ├── .env
 ├── server.js
 └── README.md
+
+````
 
 ## 🚀 Getting Started
 
